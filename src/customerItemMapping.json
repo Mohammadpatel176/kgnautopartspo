@@ -1,0 +1,22 @@
+[
+  {
+    "customerId": 1,
+    "customerName": "Imran Khan",
+    "address": "Ahmedabad",
+    "items": [
+      { "itemCode": "ITM001", "itemName": "Compect Flooring 18-14", "priceIRN": 1350 },
+      { "itemCode": "ITM002", "itemName": "Compect Flooring 14", "priceIRN": 1250 },
+        { "itemCode": "ITM003", "itemName": "Compect Flooring 16", "priceIRN": 1150 },
+      { "itemCode": "ITM004", "itemName": "O-M Flooring 18-14", "priceIRN": 1300 }
+    ]
+  },
+  {
+    "customerId": 2,
+    "customerName": "Wholesale Customer",
+    "address": "Pune",
+    "items": [
+      { "itemCode": "ITM003", "itemName": "Compect Flooring 16", "priceIRN": 1150 },
+      { "itemCode": "ITM004", "itemName": "O-M Flooring 18-14", "priceIRN": 1300 }
+    ]
+  }
+]

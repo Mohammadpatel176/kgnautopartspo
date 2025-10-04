@@ -1,0 +1,80 @@
+[
+  {
+    "itemid": 1,
+    "itemcode": "ITM001",
+    "itemname": "Compect Flooring 18-14",
+    "unitprice": 1350
+  },
+  {
+    "itemid": 2,
+    "itemcode": "ITM002",
+    "itemname": "Compect Flooring 14",
+    "unitprice": 1250
+  },
+  {
+    "itemid": 3,
+    "itemcode": "ITM003",
+    "itemname": "Compect Flooring 16",
+    "unitprice": 1150
+  },
+  {
+    "itemid": 4,
+    "itemcode": "ITM004",
+    "itemname": "O-M Flooring 18-14",
+    "unitprice": 1300
+  },
+    {
+        "itemid": 5,
+        "itemcode": "ITM005",
+        "itemname": "O-M Flooring 18-16",
+        "unitprice": 1200
+    },
+    {
+        "itemid": 6,
+        "itemcode": "ITM006",
+        "itemname": "Rear Flooring (GAGE 18)",
+        "unitprice": 850
+    },
+     {
+    "itemid": 7,
+    "itemcode": "ITM007",
+    "itemname": "Compect Flooring 18-14 (WP)",
+    "unitprice": 1350
+  },
+  {
+    "itemid": 2,
+    "itemcode": "ITM002",
+    "itemname": "Compect Flooring 14 (WP)",
+    "unitprice": 1250
+  },
+  {
+    "itemid": 1,
+    "itemcode": "ITM001",
+    "itemname": "Compect Flooring 18-14 (WP)",
+    "unitprice": 1350
+  },
+  {
+    "itemid": 3,
+    "itemcode": "ITM003",
+    "itemname": "Compect Flooring 16 (WP)",
+    "unitprice": 1150
+  },
+  {
+    "itemid": 4,
+    "itemcode": "ITM004",
+    "itemname": "O-M Flooring 18-14 (WP)",
+    "unitprice": 1300
+  },
+    {
+        "itemid": 5,
+        "itemcode": "ITM005",
+        "itemname": "O-M Flooring 18-16 (WP)",
+        "unitprice": 1200
+    },
+    {
+        "itemid": 6,
+        "itemcode": "ITM006",
+        "itemname": "Rear Flooring (GAGE 18) (WP)",
+        "unitprice": 850
+    }
+]

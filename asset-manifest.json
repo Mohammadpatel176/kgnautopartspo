@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/kgnautopartspo/static/css/main.31d6cfe0.css",
+    "main.js": "/kgnautopartspo/static/js/main.ccff71b8.js",
+    "static/js/453.9b4f0edb.chunk.js": "/kgnautopartspo/static/js/453.9b4f0edb.chunk.js",
+    "index.html": "/kgnautopartspo/index.html",
+    "main.ccff71b8.js.map": "/kgnautopartspo/static/js/main.ccff71b8.js.map",
+    "453.9b4f0edb.chunk.js.map": "/kgnautopartspo/static/js/453.9b4f0edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.ccff71b8.js"
+  ]
+}

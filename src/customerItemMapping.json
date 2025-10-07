@@ -4,10 +4,16 @@
     "customerName": "Imran Khan",
     "address": "Ahmedabad",
     "items": [
-      { "itemCode": "ITM001", "itemName": "Compect Flooring 18-14", "priceIRN": 1350 },
-      { "itemCode": "ITM002", "itemName": "Compect Flooring 14", "priceIRN": 1250 },
-        { "itemCode": "ITM003", "itemName": "Compect Flooring 16", "priceIRN": 1150 },
-      { "itemCode": "ITM004", "itemName": "O-M Flooring 18-14", "priceIRN": 1300 }
+      { "itemCode": "AS001", "itemName": "Auto Shakti Clutch Plate 150cc", "priceIRN": 1250 },
+      { "itemCode": "AS002", "itemName": "Auto Shakti Brake Shoe Set", "priceIRN": 480 },
+      { "itemCode": "AS003", "itemName": "Auto Shakti Chain Sprocket Kit", "priceIRN": 1450 },
+      { "itemCode": "AS004", "itemName": "Auto Shakti Air Filter 125cc", "priceIRN": 320 },
+      { "itemCode": "AS005", "itemName": "Auto Shakti Front Shock Absorber", "priceIRN": 1750 },
+      { "itemCode": "AS006", "itemName": "Auto Shakti Rear View Mirror Set", "priceIRN": 290 },
+      { "itemCode": "AS007", "itemName": "Auto Shakti Headlight Assembly", "priceIRN": 850 },
+      { "itemCode": "AS008", "itemName": "Auto Shakti Fuel Pipe Hose", "priceIRN": 180 },
+      { "itemCode": "AS009", "itemName": "Auto Shakti Ignition Coil", "priceIRN": 630 },
+      { "itemCode": "AS010", "itemName": "Auto Shakti Oil Filter", "priceIRN": 210 }
     ]
   },
   {
@@ -15,8 +21,67 @@
     "customerName": "Wholesale Customer",
     "address": "Pune",
     "items": [
-      { "itemCode": "ITM003", "itemName": "Compect Flooring 16", "priceIRN": 1150 },
-      { "itemCode": "ITM004", "itemName": "O-M Flooring 18-14", "priceIRN": 1300 }
+      { "itemCode": "BAJ001", "itemName": "Bajaj Auto Spark Plug", "priceIRN": 150 },
+      { "itemCode": "BAJ002", "itemName": "Bajaj Auto Clutch Cable", "priceIRN": 320 },
+      { "itemCode": "BAJ003", "itemName": "Bajaj Auto Accelerator Cable", "priceIRN": 280 },
+      { "itemCode": "BAJ004", "itemName": "Bajaj Auto Piston Kit", "priceIRN": 1250 },
+      { "itemCode": "BAJ005", "itemName": "Bajaj Auto Engine Valve Set", "priceIRN": 890 },
+      { "itemCode": "BAJ006", "itemName": "Bajaj Auto Timing Chain", "priceIRN": 460 },
+      { "itemCode": "BAJ007", "itemName": "Bajaj Auto Clutch Lever Set", "priceIRN": 350 },
+      { "itemCode": "BAJ008", "itemName": "Bajaj Auto Indicator Set", "priceIRN": 410 },
+      { "itemCode": "BAJ009", "itemName": "Bajaj Auto Battery 12V", "priceIRN": 1650 },
+      { "itemCode": "BAJ010", "itemName": "Bajaj Auto Rear Shock Absorber", "priceIRN": 1850 }
+    ]
+  },
+  {
+    "customerId": 3,
+    "customerName": "Patel Traders",
+    "address": "Rajkot",
+    "items": [
+      { "itemCode": "AS011", "itemName": "Auto Shakti Disc Brake Pad Set", "priceIRN": 540 },
+      { "itemCode": "AS012", "itemName": "Auto Shakti Handle Grip", "priceIRN": 220 },
+      { "itemCode": "AS013", "itemName": "Auto Shakti Kick Lever", "priceIRN": 460 },
+      { "itemCode": "AS014", "itemName": "Auto Shakti Silencer Assembly", "priceIRN": 2250 },
+      { "itemCode": "AS015", "itemName": "Auto Shakti Chain Cover", "priceIRN": 380 },
+      { "itemCode": "AS016", "itemName": "Auto Shakti Tail Light Assembly", "priceIRN": 490 },
+      { "itemCode": "AS017", "itemName": "Auto Shakti Horn Dual Tone", "priceIRN": 550 },
+      { "itemCode": "AS018", "itemName": "Auto Shakti Seat Cover Premium", "priceIRN": 870 },
+      { "itemCode": "AS019", "itemName": "Auto Shakti Side Stand", "priceIRN": 190 },
+      { "itemCode": "AS020", "itemName": "Auto Shakti Fuel Tap", "priceIRN": 240 }
+    ]
+  },
+  {
+    "customerId": 4,
+    "customerName": "RK Auto Parts",
+    "address": "Surat",
+    "items": [
+      { "itemCode": "BAJ011", "itemName": "Bajaj Auto Cylinder Kit 150cc", "priceIRN": 2850 },
+      { "itemCode": "BAJ012", "itemName": "Bajaj Auto Carburetor Assembly", "priceIRN": 1950 },
+      { "itemCode": "BAJ013", "itemName": "Bajaj Auto CDI Unit", "priceIRN": 880 },
+      { "itemCode": "BAJ014", "itemName": "Bajaj Auto Magnet Coil", "priceIRN": 920 },
+      { "itemCode": "BAJ015", "itemName": "Bajaj Auto Wiring Harness", "priceIRN": 1150 },
+      { "itemCode": "BAJ016", "itemName": "Bajaj Auto Chain Adjuster", "priceIRN": 280 },
+      { "itemCode": "BAJ017", "itemName": "Bajaj Auto Mudguard Rear", "priceIRN": 720 },
+      { "itemCode": "BAJ018", "itemName": "Bajaj Auto Fuel Tank Cap", "priceIRN": 310 },
+      { "itemCode": "BAJ019", "itemName": "Bajaj Auto Meter Cable", "priceIRN": 260 },
+      { "itemCode": "BAJ020", "itemName": "Bajaj Auto Speedometer Assembly", "priceIRN": 1050 }
+    ]
+  },
+  {
+    "customerId": 5,
+    "customerName": "Classic Auto World",
+    "address": "Vadodara",
+    "items": [
+      { "itemCode": "AS021", "itemName": "Auto Shakti Footrest Set", "priceIRN": 350 },
+      { "itemCode": "AS022", "itemName": "Auto Shakti Headlight Cover", "priceIRN": 420 },
+      { "itemCode": "AS023", "itemName": "Auto Shakti Mirror Bracket", "priceIRN": 240 },
+      { "itemCode": "AS024", "itemName": "Auto Shakti Engine Guard", "priceIRN": 760 },
+      { "itemCode": "AS025", "itemName": "Auto Shakti Oil Cap", "priceIRN": 180 },
+      { "itemCode": "AS026", "itemName": "Auto Shakti Kick Rubber Set", "priceIRN": 130 },
+      { "itemCode": "AS027", "itemName": "Auto Shakti Clutch Bearing", "priceIRN": 620 },
+      { "itemCode": "AS028", "itemName": "Auto Shakti Starter Relay", "priceIRN": 480 },
+      { "itemCode": "AS029", "itemName": "Auto Shakti Headlamp Bulb 12V", "priceIRN": 190 },
+      { "itemCode": "AS030", "itemName": "Auto Shakti Tail Lamp Lens", "priceIRN": 140 }
     ]
   }
 ]
